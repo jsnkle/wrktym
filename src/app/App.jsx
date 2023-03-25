@@ -1,11 +1,11 @@
 import "./app.scss";
-import Work from "@features/work/Work.jsx";
+import { Workpg } from "@pages";
 
 function App() {
   return (
     <>
       <h1>WrkCycl Project</h1>
-      <Work />
+      <Workpg />
     </>
   );
 }

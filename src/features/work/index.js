@@ -1,4 +1,6 @@
-import WorkItem from "@features/work/WorkItem.jsx";
-import Work from "@features/work/Work.jsx";
+import WorkStep from "@features/work/WorkStep.jsx";
+import WorkAccordion from "@features/work/WorkAccordion.jsx";
+import WorkDetail from "@features/work/WorkDetail.jsx";
+import WorkStack from "@features/work/WorkStack.jsx";
 
-export { Work, WorkItem };
+export { WorkStack, WorkAccordion, WorkStep, WorkDetail };
