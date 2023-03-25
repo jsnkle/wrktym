@@ -1,9 +1,11 @@
 import "./app.scss";
+import Work from "@features/work/Work.jsx";
 
 function App() {
   return (
     <>
-      <h1>wrktym project</h1>
+      <h1>WrkCycl Project</h1>
+      <Work />
     </>
   );
 }
